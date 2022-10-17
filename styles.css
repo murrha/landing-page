@@ -10,11 +10,11 @@ a {
     text-decoration: none;
 }
 
-.header{
+header{
     display: inline;
 }
 
-.header img{
+header img{
     max-width: 150px;
     max-height: 150px;
     margin: 20px; 
@@ -94,6 +94,6 @@ cite{
     background-color: burlywood;
 }
 
-.footer{
+footer{
     text-align: center;
 }
